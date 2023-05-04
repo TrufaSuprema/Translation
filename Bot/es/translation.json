@@ -23,8 +23,8 @@
     "cmd_voice_untrust_description": "Los usuarios en los que no se confía pueden unirse a tu canal temporal público",
     "cmd_voice_users_description": "Muestra una lista de tus usuarios confiados y bloqueados en tu canal de voz temporal",
     "cmd_voice_password_description": "Establece una contraseña para que otros accedan a tu canal de voz temporal",
-    "cmd_voice_reset_description": "Reinicia la configuración de tu canal de voz temporal",
-    "cmd_voice_lfp_description": "Send an invite link to your temporary channel in this chat",
+    "cmd_voice_reset_description": "Reinicia la configuración de tu Canal de Voz Temporal",
+    "cmd_voice_lfp_description": "Envía un enlace de invitación a tu Canal de Voz Temporal en este chat",
 
     "cmd_join_description": "Únete a un canal de voz temporal usando una contraseña",
 
@@ -48,13 +48,13 @@
     "error_target": "**No es posible**. No puedes usar este comando con este usuario.",
     "error_ownership": "**No es posible**. Solo el dueño del canal de voz puede usar este comando. Si el dueño actual ha abandonado el canal, reclámalo usando: </voice claim:921416747687489568>.",
     "error_permissions": "**Permisos faltantes**. Faltan los siguientes permisos: {val1}.",
-    "error_permissions_sync": "**Missing Permissions.** Please contact an Admin. The following permissions are **missing** in the **server settings** role for TempVoice: {val1} in order to sync permissions.",
+    "error_permissions_sync": "**Permisos faltantes**. Por favor contacte un Administrador. Los siguientes permisos están **faltando** en las **configuraciones del Servidor** para el rol de TempVoice: {val1} para sincronizar permisos.",
     "error_deactivated": "**No es posible**. Este comando está desactivado para todos los canales de voz temporales de {val1}.",
     "error_limit": "**No es posible**. El límite de creadores de canales en un solo servidor es de {val1}. Prueba a eliminar uno o incrementa el límite con un nivel más alto de la suscripción [prémium](<https://tempvoice.xyz/premium>).",
     "error_ratelimit": "**¡Cálmate!** El comando puede ser usado de nuevo **{val1}**.",
     "error_creation": "**¡Cálmate!** Puedes crear un nuevo canal **{val1}**.",
     "error_max": "**Límite alcanzado** El límite de canales de voz temporales de **{val1}** al mismo tiempo ha sido alcanzado. Intenta nuevamente luego.",
-    "error_cb": "**Not Possible.** You are trying to use a [TempVoice Custom Branding](https://tempvoice.xyz/) bot, which is not activated for this Discord server. If you are the owner of this Custom Branding bot, activate it here at [Profile](https://tempvoice.xyz/profile) > **Custom Branding** > **Activate Custom Branding**.",
+    "error_cb": "**No es posible**. Estás intentando usar un Bot con [Marca Personalizada de TempVoice](https://tempvoice.xyz/), la cuál no está activada en este Servidor de Discord. Si eres el dueño de este Bot de marca personalizada, actívalo en [Perfil](https://tempvoice.xyz/profile) > **Marca Personalizada** > **Activar Marca Personalizada**.",
 
     "voice_waiting_1": "**No es posible**. No puedes crear una sala de espera si tu canal está oculto.",
     "voice_waiting_2": "**No es posible**. No es posible ocultar tu canal si tienes una sala de espera.",
@@ -102,7 +102,7 @@
     "voice_thread_3": "**¡Borrado!** El hilo ha sido eliminado.",
     "voice_thread_4": "**No es posible**. No existe un hilo para borrar.",
     "voice_close_1": "**¡Cerrado!** Tu canal de voz temporal ha sido cerrado.",
-    "voice_close_2": "**Are You Sure?** Your temporary voice channel will be deleted. Please confirm by using the button below.",
+    "voice_close_2": "**¿Estás seguro?** Tu canal de voz temporal será borrando. Por favor confirma usando el botón de confirmación de abajo.",
     "voice_password_1": "**¡Actualizado!** Ahora pueden entrar a tu canal de voz temporal usando la contraseña ||`{val1}`|| con el comando </join:1060564928529956985>.",
     "voice_password_2": "**¡Actualizado!** La contraseña para tu canal de voz temporal fue removida.",
 
